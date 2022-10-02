@@ -2,5 +2,9 @@
 Basic searching and sorting algorithms
 
 
-# Searching
-  - Binary search
+## Sorting
+  - Quick sort
+  - Merge sort
+  - Insertion sort
+  - Bubble sort
+  - Heap sort
