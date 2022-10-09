@@ -1,4 +1,3 @@
-
 def binary_search_iter(arr, key):
 
     low = 0
